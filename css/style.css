@@ -19,12 +19,12 @@
 }
 .left-portion{
     height: 100vh;
+    min-height: 100vh;
     width: 100%;
     background-color: rgba(11, 3, 87, 0.582);
     display: flex;
     flex-direction: column;
     justify-content: center;
-    overflow: hidden;
 }
 .left-portion .img-fluid{
     width: 100px;
